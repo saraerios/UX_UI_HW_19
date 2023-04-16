@@ -73,7 +73,7 @@ body {
     }
     .saraselfie {
         display: block;
-        margin-left: 250px;
+        margin-left: 200px;
         margin-right: 400px;
     }
     .center {
@@ -101,9 +101,9 @@ body {
     }
 
     .saraselfie {
-        float: left;
-        padding-left: 80px;
-        padding-right: 400px;
+        float: center;
+        padding-left: 60px;
+
     }
     h3 {
         padding-left: 400px;
