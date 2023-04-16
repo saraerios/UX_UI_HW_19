@@ -137,6 +137,15 @@ body {
         padding-top: 0px;
         margin-left: 50px;
     }
+    .buttondiv2 {
+        display: block;
+        padding-left: 350px;
+        padding-right: 90px;
+        padding-bottom: 10px;
+        padding-top: 0px;
+        margin-left: 50px;
+    }
+
     .p1 {
         display: inline block;
         float: left;
@@ -294,7 +303,16 @@ body {
         color: white;
         background-color: #B8B8AB;
     }
-
+    .buttonmain2 {
+        border: none;
+        font-size: 15px;
+        text-decoration: none;
+        cursor: pointer;
+        align-items: left;
+        justify-content: left;
+        color: white;
+        background-color: #B8B8AB;
+    }
 
     h8 {
         font-weight: bold;
