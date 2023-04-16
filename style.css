@@ -101,7 +101,7 @@ body {
     }
 
     .saraselfie {
-        float: center;
+        float: left;
         padding-left: 60px;
 
     }
@@ -117,7 +117,7 @@ body {
         margin-right: auto;
     }
     .imageContact {
-        padding-left: 550px;
+        padding-left: 350px;
     }
     
     .background {
