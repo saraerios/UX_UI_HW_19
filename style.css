@@ -102,7 +102,7 @@ body {
 
     .saraselfie {
         float: left;
-        padding-left: 60px;
+        padding-left: 80px;
 
     }
     h3 {
@@ -117,7 +117,7 @@ body {
         margin-right: auto;
     }
     .imageContact {
-        padding-left: 500px;
+        padding-left: 480px;
     }
     
     .background {
@@ -131,7 +131,7 @@ body {
     
     .buttondiv {
         display: block;
-        padding-left: 640px;
+        padding-left: 600px;
         padding-right: 90px;
         padding-bottom: 10px;
         padding-top: 0px;
