@@ -99,8 +99,11 @@ body {
         font-size: 20px;
         font-family: 'Poppins';
     }
-    .selfie {
-        align-items: center;
+
+    .saraselfie {
+        float: left;
+        padding-left: 80px;
+        padding-right: 400px;
     }
     h3 {
         padding-left: 400px;
@@ -114,7 +117,7 @@ body {
         margin-right: auto;
     }
     .imageContact {
-        padding-left: 400px;
+        padding-left: 550px;
     }
     
     .background {
@@ -128,18 +131,19 @@ body {
     
     .buttondiv {
         display: block;
-        padding-left: 350px;
+        padding-left: 680px;
         padding-right: 90px;
-        padding-bottom: 50px;
-        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-top: 0px;
         margin-left: 50px;
     }
     .p1 {
-        display: block;
+        display: inline block;
+        float: left;
         font-family: 'Poppins';
         padding-left: 350px;
         padding-right: 400px;
-        padding-bottom: 50px;
+        padding-bottom: 10px;
         margin-left: 50px;
       }
       
